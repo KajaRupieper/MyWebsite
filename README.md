@@ -1,2 +1,2 @@
 # MyWebsite
-This repository contains files for my website. Check the branch gh-pages.
+This repository contains files for the website "https://sites.google.com/view/kajarupieper". Check the branch gh-pages.
